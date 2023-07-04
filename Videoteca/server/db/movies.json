@@ -1,0 +1,137 @@
+{
+  "movies": [
+    {
+      "title": "Interstellar",
+      "year": "2017",
+      "runtime": "106",
+      "categories": ["Fantascienza", "Drama", "Azione"],
+      "imdb": 9,
+      "subtitles": true,
+      "storyline": "In un futuro prossimo venturo, il pianeta Terra sta diventando un ambiente inabitabile per l'uomo. Un gruppo di scienziati appartenenti un tempo alla NASA, sfruttando un \"wormhole\" per superare le limitazioni fisiche del viaggio spaziale e coprire le immense distanze del viaggio interstellare, organizza una serie di missioni spaziali alla ricerca di un pianeta abitabile. A tal scopo convince Cooper, un ex pilota di talento, a lasciare i propri figli per imbarcarsi in una missione che ha lo scopo di salvare l'umanità.",
+      "poster": "https://i.pinimg.com/564x/54/d0/f2/54d0f233e73132b24f91c1d59a5e345f.jpg",
+      "background": "https://i.ibb.co/K6sk0kQ/Screenshot-1.png"
+    },
+    {
+      "title": "Pirati dei Caraibi 5",
+      "year": "2017",
+      "runtime": "106",
+      "categories": ["Comico", "Azione", "Avventura"],
+      "imdb": 9.1,
+      "subtitles": true,
+      "storyline": "Sempre pronto all’avventura, lo spavaldo capitano Jack Sparrow (Johnny Depp) è costretto ancora una volta a fare i conti con la sfortuna quando i diabolici pirati fantasma guidati dal vecchio e terrificante nemico Salazar (Javier Bardem), fuggiti dal Triangolo del Diavolo, decidono di uccidere ogni pirata che incontrano. L’unica speranza di Sparrow sarà trovare il leggendario tridente di Poseidone, un potente artefatto che dona al suo possessore il controllo totale sui mari.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_.jpg",
+      "background": "https://images6.alphacoders.com/811/thumb-1920-811200.jpg"
+    },
+    {
+      "title": "Avengers",
+      "year": "2012",
+      "runtime": "120",
+      "categories": ["Fantastico", "Azione", "Avventura"],
+      "imdb": 9.5,
+      "subtitles": true,
+      "storyline": "In qualche luogo dell'Universo, nell'anno terrestre 2012. Il redivivo Loki (Tom Hiddleston), infingardo semidio asgardiano perennemente ossessionato dal desiderio di riscattare il suo senso di inferiorità davanti agli occhi di suo padre Odino, salvatosi in extremis dalla dipartita alla fine di \"Thor\", viene magicamente teletrasportato da un misterioso alieno, chiamato l'Altro, in un misterioso asteroide per ordine di un ancora più misterioso padrone.",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfj-Xxr1DlcuFjU4Nj0ZHm2rmEn0e7BBU0xQZzQedaWODnFw7Q",
+      "background": "https://wallpapercave.com/wp/vDy3sUb.jpg",
+      "trailer": "https://www.youtube.com/embed/21-RSDPmLjg"
+    },
+    {
+      "title": "Shrek 3",
+      "year": "2007",
+      "runtime": "93",
+      "categories": ["Fantastico", "Animazione", "Avventura"],
+      "imdb": 8.3,
+      "subtitles": true,
+      "storyline": "Quando Shrek sposò Fiona, l'ultima cosa a cui pensava era di diventare Re. Ma quando suo suocero, Re Harold, improvvisamente inizia a gracidare, Shrek rischia di dover prendere il suo posto.",
+      "poster": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKiAUb3f-xZiaMfTtY93eQ2oZID5KeP1M6QprD2I9dRDCmYOMW",
+      "background": "https://wallpaperaccess.com/full/4944335.jpg"
+    },
+    {
+      "title": "Harry Potter e La Pietra Filosofale",
+      "year": "2001",
+      "runtime": "151",
+      "categories": ["Fantastico", "Avventura"],
+      "imdb": 9.2,
+      "subtitles": true,
+      "storyline": "A 11 anni, Harry Potter scopre di essere il figlio orfano di due potenti maghi. Frequenta la scuola di magia e stregoneria di Hogwarts dove scopre la verità su se stesso e sulla morte dei suoi genitori.",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3s6pfzpaoVk3sI9MT2lQf_JqZrLdi-AcmR6-uBQzgBZ5w1Gbd",
+      "background": "https://wallpapercave.com/wp/wp4879828.jpg"
+    },
+    {
+      "title": "Captain America il Primo Vendicatore",
+      "year": "2001",
+      "runtime": "151",
+      "categories": ["Avventura", "Guerra", "Azione", "Fantascienza"],
+      "imdb": 9,
+      "subtitles": true,
+      "storyline": "Steve è un giovanotto smilzo che vuole ad ogni costo arruolarsi nell'esercito per combattere i nazisti. Putroppo viene regolarmente scartato, ma un giorno gli si presenta la possibilità di fare da cavia: gli iniettano così il siero del supersoldato.",
+      "poster": "https://pad.mymovies.it/filmclub/2008/06/089/locandinapg3.jpg",
+      "background": "https://wallpaperaccess.com/full/1826375.jpg"
+    },
+    {
+      "title": "Doctor Strange",
+      "year": "2016",
+      "runtime": "151",
+      "categories": ["Avventura", "Azione", "Fantasy"],
+      "imdb": 9,
+      "subtitles": true,
+      "storyline": "Un medico resta vittima di un tragico incidente, ma viene aiutato da uno stregone che lo inizia alle arti magiche, grazie alle quali egli riesce a redimersi e a combattere le forze oscure che minacciano l'umanità.",
+      "poster": "https://blog.screenweek.it/wp-content/uploads/2016/09/doctor-strange-poster-benedict-cumberbatch-.jpg",
+      "background": "https://images5.alphacoders.com/698/698123.jpg"
+    },
+    {
+      "title": "Spiderman Homecoming",
+      "year": "2017",
+      "runtime": "133",
+      "categories": ["Avventura", "Azione", "Fantascienza"],
+      "imdb": 9.2,
+      "subtitles": true,
+      "storyline": "L'Uomo Ragno decide di chiedere aiuto al proprio mentore: il miliardario Tony Stark, alias Iron Man. La situazione si complica quando il criminale noto come Avvoltoio comincia a seminare il panico in città.",
+      "poster": "https://imageio.forbes.com/blogs-images/markhughes/files/2017/07/SPIDER-MAN-HOMECOMING-poster-10-1200x1777.jpg?format=jpg&width=960",
+      "background": "https://wallpaperaccess.com/full/734964.jpg"
+    },
+    {
+      "title": "Black Panther",
+      "year": "2018",
+      "runtime": "133",
+      "categories": ["Avventura", "Azione", "Fantascienza"],
+      "imdb": 9.2,
+      "subtitles": true,
+      "storyline": "Dopo gli eventi di Captain America: Civil War, il principe T'Challa fa ritorno a Wakanda per succedere al trono come nuovo re, ma scopre che il suo ruolo è messo in discussione da delle fazioni interne del suo Paese. Quando una cospirazione minaccia di distruggere Wakanda, T'Challa dovrà indossare i panni di Black Panther e unire le forze con l'agente della CIA Everett K. Ross per evitare una guerra che potrebbe coinvolgere il mondo intero.",
+      "poster": "https://lumiere-a.akamaihd.net/v1/images/p_blackpanther_19754_4ac13f07.jpeg?region=0%2C0%2C540%2C810",
+      "background": "https://www.xtrafondos.com/wallpapers/pantera-negra-pelicula-4967.jpg"
+    },
+    {
+      "title": "Avengers Infinity War",
+      "year": "2018",
+      "runtime": "149",
+      "categories": ["Avventura", "Azione", "Fantascienza"],
+      "imdb": 9.6,
+      "subtitles": true,
+      "storyline": "Iron Man, Thor, Hulk egli Avengers si uniscono per combattere ancora il loro più potente nemico: il malvagio Thanos. Il destino del pianeta e dell'umanità non sono mai stati più incerti.",
+      "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSggq-fsPNqJq_SQ94aE0L3BvwthYZ0HpyYC7BpEIyqgbkCmjLg",
+      "background": "https://images4.alphacoders.com/909/thumb-1920-909185.jpg"
+    },
+    {
+      "title": "Avatar",
+      "year": "2009",
+      "runtime": "162",
+      "categories": ["Avventura", "Azione", "Fantascienza"],
+      "imdb": 9.8,
+      "subtitles": true,
+      "storyline": "L'ex marine Jake Sully è stato reclutato per una missione sul pianeta Pandora con lo scopo di recuperare risorse naturali in esaurimento sulla Terra. Inaspettatamente si ritrova a voler proteggere il mondo magico al quale si sente stranamente legato.",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-rgSfqIy93HiXkRq53-XbMlkZsIMoRUIWHpKtPZRbsLeLPY4K",
+      "background": "https://images3.alphacoders.com/674/674346.jpg"
+    },
+    {
+      "title": "Black Adam",
+      "year": "2022",
+      "runtime": "125",
+      "categories": ["Avventura", "Azione", "Fantascienza", "Fantastico"],
+      "imdb": 9.8,
+      "subtitles": true,
+      "storyline": "L'ex marine Jake Sully è stato reclutato per una missione sul pianeta Pandora con lo scopo di recuperare risorse naturali in esaurimento sulla Terra. Inaspettatamente si ritrova a voler proteggere il mondo magico al quale si sente stranamente legato.",
+      "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2srfTN1roPgvj2b7wPU_dPVnYPOCVw9HZeGBZK37-elZHwZ6A",
+      "background": "https://images2.alphacoders.com/109/1098721.jpg"
+    }
+  ]
+}

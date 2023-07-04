@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Videoteca</title>
+  </head>
+  <body>
+    <div class="modal">
+      <div class="modal__trailer">
+        <iframe
+          src=""
+          title=""
+          frameborder="0"
+          allow="autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </div>
+    </div>
+    <div class="hero">
+      <nav>
+        <p>Multicinema</p>
+        <ul>
+          <li>MAIN</li>
+          <li>CONTACT</li>
+          <li>PROFILE</li>
+        </ul>
+        <p>Sign in</p>
+      </nav>
+      <div class="hero__content">
+        <div class="locandina">
+          <img class="poster" />
+        </div>
+        <div class="hero__content--side">
+          <p id="year">2017</p>
+          <h1 id="title">Interstellar reunion</h1>
+          <ul id="categories">
+            <!-- <li>Sciensce fiction</li>
+            <li>●</li>
+            <li>Drama</li>
+            <li>●</li>
+            <li>Action</li> -->
+          </ul>
+          <p id="storyline"></p>
+          <div class="content__info">
+            <div class="content__info--box">
+              <img class="runtime_icon" src="./img/time.png" alt="" />
+              <p id="runtime">.</p>
+            </div>
+            <div class="content__info--box">
+              <img class="subtitles_icon" src="./img/subtitles.png" alt="" />
+              <p>Subtitles</p>
+            </div>
+            <div class="content__info--box">
+              <p class="red_dot_icon">●</p>
+              <p id="imdb"></p>
+            </div>
+          </div>
+          <div class="content__buttons">
+            <button class="watch__trailer-btn">
+              <img
+                class="play_button_icon"
+                src="./img/play-button.png"
+                alt=""
+                srcset=""
+              />
+              Guarda Trailer
+            </button>
+            <div class="read__more--box">
+              <p>●●●</p>
+              <button class="read__more-btn">Read more</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="ticket_section">
+      <div class="choose_date_container">
+        <h1>Prova</h1>
+      </div>
+      <div class="choose_time_container">
+        <h1>Prova</h1>
+      </div>
+      <button class="buy_ticket-btn">Buy Ticket</button>
+    </div>
+    <div class="page_content">
+      <div class="bar">
+        <ul>
+          <li id="all_filter" class="selected_category">Tutte le categorie</li>
+          <li id="action_filter">Azione</li>
+          <li id="adventure_filter">Avventura</li>
+          <li id="comic_filter">Comico</li>
+        </ul>
+        <div class="searchbar">
+          <input
+            id="search"
+            type="text"
+            placeholder="Cerca..."
+            autocomplete="off"
+          />
+          <img src="./img/search.png" />
+        </div>
+      </div>
+      <div class="main_container">
+        <div class="container"></div>
+      </div>
+    </div>
+    <script src="./js/utils.js"></script>
+  </body>
+</html>
